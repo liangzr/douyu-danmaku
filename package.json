@@ -1,0 +1,15 @@
+{
+  "name": "douyu-dammaku",
+  "version": "0.1.0",
+  "description": "A CLI danmaku for DouYu",
+  "main": "bin/douyu-danmaku.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "douyu",
+    "danmaku"
+  ],
+  "author": "liangzr <liangzr@outlook.com>",
+  "license": "MIT"
+}
