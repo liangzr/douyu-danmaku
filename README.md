@@ -2,6 +2,9 @@ DouYu Danmaku
 ===
 Personal DouYu danmaku manager
 
+![Work In Progress](https://img.shields.io/badge/WIP-5%25-blue.svg?style=flat-square)
+
+
 Feature
 ---
 
